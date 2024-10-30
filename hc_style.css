@@ -1,0 +1,16 @@
+/* CSS Document */
+.hc_title {
+  font-size: 30px;
+}
+.hc_preview_area {
+  
+}
+.hc_preview_description {
+
+}
+.entry-content .hc_title {
+  font-size: 30px;
+}
+#customHolocamViewer {
+ position: absolute; left: 0px; top: 0px; width: 100%; height: 400px;
+}

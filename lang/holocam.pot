@@ -1,0 +1,114 @@
+# Copyright (C) 2016 Holocam
+# This file is distributed under the same license as the Holocam package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Holocam 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/holocam\n"
+"POT-Creation-Date: 2016-04-08 06:45:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: hc_attachmentbox.php:21
+msgid "Attachment"
+msgstr ""
+
+#: hc_attachmentbox.php:28
+msgid "Description"
+msgstr ""
+
+#: hc_attachmentbox.php:45
+msgid "holocam.io settings"
+msgstr ""
+
+#: hc_attachmentbox.php:60
+msgid "holocam.io panorama images settings"
+msgstr ""
+
+#: hc_attachmentbox.php:61
+msgid "API Key of product"
+msgstr ""
+
+#: hc_attachmentbox.php:68
+msgid "shows preview of holocam.io panorama image with title=xyz"
+msgstr ""
+
+#: hc_attachmentbox.php:69
+msgid "lists previews of count x last public holocam.io panorama images. Default: last 10 images."
+msgstr ""
+
+#: hc_attachmentbox.php:71
+msgid "Delete holocam.io panorama image zip file after upload and extracted it: "
+msgstr ""
+
+#: hc_attachmentbox.php:119
+msgid "Upload Holocam Image zip package"
+msgstr ""
+
+#: posttype.php:15
+msgctxt "taxonomy general name"
+msgid "Privacy"
+msgstr ""
+
+#: posttype.php:16
+msgctxt "taxonomy singular name"
+msgid "Privacy"
+msgstr ""
+
+#: posttype.php:17
+msgid "Search Privacy"
+msgstr ""
+
+#: posttype.php:18
+msgid "All Privacy"
+msgstr ""
+
+#: posttype.php:19
+msgid "Parent Privacy"
+msgstr ""
+
+#: posttype.php:20
+msgid "Parent Privacy:"
+msgstr ""
+
+#: posttype.php:21
+msgid "Edit Privacy"
+msgstr ""
+
+#: posttype.php:22
+msgid "Update Privacy"
+msgstr ""
+
+#: posttype.php:23
+msgid "Add New Privacy"
+msgstr ""
+
+#: posttype.php:24
+msgid "New Privacy Name"
+msgstr ""
+
+#: posttype.php:25
+msgid "Privacy"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Holocam"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://warptec.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Panorama images upload for Holocam"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Warptec"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://warptec.com"
+msgstr ""
